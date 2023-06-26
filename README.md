@@ -46,3 +46,4 @@ De tener mas tiempo, hubiese estado genial añadir:
  - Validaciones adicionales (rental no debe asignar la fecha de inicio antes de hoy por ejemplo)
  - Virtualizacion (usando un docker-compose para levantar un phpfpm y un mysql, por ejemplo con https://hub.docker.com/r/bitnami/symfony/#!)
  - Tests de aceptación (de acuerdo a https://api-platform.com/docs/distribution/testing/)
+ - Tipados: hubiese estado bien cambiar los datetimes de rental por strings con forma de fecha, aunque para este prototipo por simplificar me parecio mejor dejarlo como DateTime
