@@ -20,8 +20,8 @@ Una prueba de API PLATFORM
  - Ejecuta `composer install`
  - Edita el fichero .env para configurar tu base de datos
  - Ejecuta desde la linea de comandos 
-   - php bin/console doctrine:database:create
-   - php bin/console doctrine:schema:create
+   - `php bin/console doctrine:database:create`
+   - `php bin/console doctrine:schema:create`
 
 # Ejecución (Windows)
  - Levanta tu servidor Mysql
